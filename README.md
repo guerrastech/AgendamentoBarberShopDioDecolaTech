@@ -88,7 +88,7 @@ O sistema é baseado nas seguintes entidades principais:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/mauriciogonrails/AgendamentoBarbearia.git
+   git clone https://github.com/guerrastech/AgendamentoBarberShopDioDecolaTech.git
    cd AgendamentoBarbearia
    ```
 
@@ -151,12 +151,12 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## 👥 Equipe
 
-- [Mauricio Gonçalves](https://github.com/mauriciogonrails) - Desenvolvedor Full Stack
+- [Mauricio Gonçalves](https://github.com/guerrastech) - Desenvolvedor Full Stack
 
 ## 📞 Contato
 
 Para dúvidas ou sugestões:
-- GitHub: [mauriciogonrails](https://github.com/mauriciogonrails)
+- GitHub: [mauriciogonrails](https://github.com/guerrastech)
 
 ---
 
